@@ -1,0 +1,27 @@
+.avatar {
+    width: 200px;
+}
+.maincard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    /* align-items: center;
+    text-align: center; */
+    margin: 0 auto;
+    text-align: center;
+    color: #2b2839;
+    background-color: #ddebf8;
+    border-bottom: #d8cefe 6px solid;
+}
+
+.border-blue {
+    border: dotted blue 1px;
+}
